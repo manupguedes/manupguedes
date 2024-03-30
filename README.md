@@ -52,7 +52,7 @@ Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai.</
 
 ## ⭐️ Contatos:
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manupguedes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<div align="center">
+<div>
   <!-- Work Links -->
   <a href="https://github.com/manupguedes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manupguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
