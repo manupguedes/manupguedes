@@ -36,7 +36,7 @@ Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai.</
 
 #### ⭐️ Estudando no Momento:
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manupguedes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<div align="center">
+<div>
   <!-- HTML --> <img src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=HTML&logoColor=white">
   <!-- CSS --> <img src="https://img.shields.io/badge/CSS-00A7E1?style=for-the-badge&logo=CSS&logoColor=white">
   <br>
@@ -44,7 +44,7 @@ Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai.</
 
 #### ⭐️ Áreas de Trabalho:
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manupguedes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<div align="center">
+<div>
   <!-- Eclipse --> <img src="https://img.shields.io/badge/Eclipse-54457f?style=for-the-badge&logo=Eclipse&logoColor=white">
   <!-- Visual Studio --> <img src="https://img.shields.io/badge/VisualStudio-7F2CCB?style=for-the-badge&logo=VisualStudio&logoColor=whit">
   <br>
