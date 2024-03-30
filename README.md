@@ -8,7 +8,7 @@
 
 ## ⭐️ Sobre mim
 
-Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai </b> Conclui o Técnico de Desenvolvimento de Sistemas no Senai, integrado com o Ensino Médio no ano de 2023. Por aqui gosto de compartilhar meus projetos do meu Superior quanto projetos pessoais,venho trazer repositórios sobre.
+Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai.</b> Conclui o Técnico de Desenvolvimento de Sistemas no Senai, integrado com o Ensino Médio no ano de 2023. Por aqui gosto de compartilhar meus projetos do meu Superior quanto projetos pessoais,venho trazer repositórios sobre.
 
 <div align="center">
   <table>
@@ -27,14 +27,14 @@ Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai </
 ## ⭐️ Hard Skills
 #### ⭐️ Main Stack:
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manupguedes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<div align="center">
+<div>
   <!-- SQL --> <img src="https://img.shields.io/badge/SQL-2EC7CD?style=for-the-badge&logo=SQL&logoColor=white">
   <!-- Java --> <img src="https://img.shields.io/badge/Java-FB9411?style=for-the-badge&logo=Java&logoColor=white">
   <br>
 </div>
 
 
-#### ⭐️ Studying in this moment:
+#### ⭐️ Estudando no Momento:
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manupguedes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   <!-- HTML --> <img src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=HTML&logoColor=white">
@@ -42,7 +42,7 @@ Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai </
   <br>
 </div>
 
-#### ⭐️ Workstation Tools:
+#### ⭐️ Áreas de Trabalho:
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manupguedes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   <!-- Eclipse --> <img src="https://img.shields.io/badge/Eclipse-54457f?style=for-the-badge&logo=Eclipse&logoColor=white">
@@ -50,7 +50,7 @@ Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai </
   <br>
 </div>
 
-## ⭐️ Contacts:
+## ⭐️ Contatos:
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manupguedes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   <!-- Work Links -->
