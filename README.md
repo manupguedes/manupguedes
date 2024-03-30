@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=manupguedes&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/manupguedes">
-    <img align="center" src="welcome.jpg" width="1000">
+    <img align="center" src="welcome.jpg" width="1500">
   </a>
 </div>
 <br>
