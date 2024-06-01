@@ -8,12 +8,12 @@
 
 ## ⭐️ Sobre mim
 
-Estou cursando <b>Análise em Desenvolvimento de Sistemas</b> pelo o UniSenai.</b> Conclui o Técnico de Desenvolvimento de Sistemas no Senai, integrado com o Ensino Médio no ano de 2023. Por aqui gosto de compartilhar meus projetos do meu Superior quanto projetos pessoais, venho trazer repositórios sobre.
+Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> pelo o UniSenai.</b> Conclui o Técnico de Desenvolvimento de Sistemas no Senai, integrado com o Ensino Médio no ano de 2023. Por aqui gosto de compartilhar meus projetos do meu Superior quanto projetos pessoais, venho trazer repositórios sobre.
 
 <div align="center">
   <table>
     <tr>
-      <td><b>🎓 Análise em Desenvolvimento de Sistemas</b></td>
+      <td><b>🎓 Análise e Desenvolvimento de Sistemas</b></td>
     </tr>
   </table>
 </div>
